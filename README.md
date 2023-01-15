@@ -24,6 +24,16 @@ with the help of Power BI
 
 #
 
-![image](https://user-images.githubusercontent.com/122387682/212533610-3cadcc18-89af-4a78-815d-adace2d76dc4.png)
+![image](https://user-images.githubusercontent.com/122387682/212533718-8a7ab6d8-cee2-4c21-8897-3df01b63427b.png)
+
+#
+
+![image](https://user-images.githubusercontent.com/122387682/212533737-3c299736-bbe8-49f4-b154-fc0eb7b97710.png)
+
+#
+
+![image](https://user-images.githubusercontent.com/122387682/212533755-b7a6e354-b745-4dcf-803a-a924ece29427.png)
+
+
 
 
