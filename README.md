@@ -19,7 +19,7 @@ with the help of Power BI
 
 #
 
-# Functions used
+# Functionality used
 ![image](https://user-images.githubusercontent.com/122387682/212533610-3cadcc18-89af-4a78-815d-adace2d76dc4.png)
 
 #
@@ -34,6 +34,18 @@ with the help of Power BI
 
 ![image](https://user-images.githubusercontent.com/122387682/212533755-b7a6e354-b745-4dcf-803a-a924ece29427.png)
 
+#
+# Model Function
+![image](https://user-images.githubusercontent.com/122387682/212533812-b279a5ae-5f1a-44a1-869b-726b5ec4432a.png)
+
+#
+
+# Deployement
+
+![image](https://user-images.githubusercontent.com/122387682/212533830-cdd91430-fe98-456b-82f0-6487f9a57034.png)
+
+#
+Website - https://huggingface.co/spaces/miraaqib704/moviereccoms-ss
 
 
 
